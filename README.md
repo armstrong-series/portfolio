@@ -1,2 +1,2 @@
-# portfolio
-ReactJs Portfolio
+# Portfolio
+ReactJs with TailwindCss
