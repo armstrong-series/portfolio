@@ -1,4 +1,4 @@
-<h4>Tech Stack Portfolip</h3>
-<h5>Stack</h5>: ReactJs, Nextjs
+<h3>Tech Stack Portfolio</h3>
+<h4>Stack</h4>: ReactJs, Nextjs
 
 <i>copyright by @armstrong-series</i>
